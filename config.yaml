@@ -7,7 +7,7 @@ proxy-providers:
       url: <https://www.gstatic.com/generate_204>
       interval: 300
     proxy: 🟢 直连
-    url: "https://sub.nexconvert.com/?L2Rvd25sb2FkQ29uZmlnL0NsYXNoLmFzcHg/dD10cm9qYW4mZXE9cm91dGUmdXJrPTM1NDI4YzM4LWVmNTgtNDFkZS1iOWRmLWQ5ZDM3ODE4MmMyOSZtbT0xNDEyNDQmYjRmYTA0YWZiYjZlNDk5"
+    url: "edit here"
       
 # 用于下载订阅时指定UA
 global-ua: clash
